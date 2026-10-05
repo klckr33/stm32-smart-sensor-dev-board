@@ -1,0 +1,15 @@
+Designators,Quantity,Description,Footprint
+"BME280,OLED,P1,P2,P3",5,"Modified .025"" SQ Post Header, Through-hole, Vertical, -55 to 125 degC, 2.54 mm Pitch, 4-Pin, Male, RoHS",SMTC-MTSW-104-07-X-S-170
+"C1,C3",2,"Cap, Cer, 10uF, 6.3V, M2012",Capacitor_Ceramic_M2012_I0805
+"C2,C4,C5,C6,C7,C8,C11,C12",8,"Cap, Cer, 100nF, 6.3V, M1005",Capacitor_Ceramic_M1005_I0402
+"C9,C10",2,"Cap, Cer, 22pF, 25V, M1005",Capacitor_Ceramic_M1005_I0402
+Conn1,1,"Conn, USB, TYPE-C","GCT, USB4056"
+D1,1,"Diode, Led, Green-Yellow, 2.2V, 20mA, M1608",Diode_Smd_M1608_I0603_Green-Yellow
+"P4,P5",2,"Press Fit Header, Through-hole, Vertical, -55 to 125 degC, 2.54 mm Pitch, 10-Pin, Male, RoHS",SMTC-PHT-110-01-X-S
+"R1,R3,R6,R7",4,"Res, 4.87K, 1%, M1005",Resistor_Smd_M1005_I0402
+R2,1,"Res, 330R, 1%, M1005",Resistor_Smd_M1005_I0402
+"R4,R5",2,"Res, 10K, 1%, M1005",Resistor_Smd_M1005_I0402
+Sw1,1,"Tactile, SPST","Tactile, SPST - Panasonic, EVQQ2"
+U1,1,AZ1117CH-3.3TRG1 3.3V LDO linear regulator, SOT-223,FP-SOT223-MFG
+U2,1,"ARM Cortex-M3 32-bit MCU, 64 KB Flash, 20 KB Internal RAM, 37 I/Os, 48-pin LQFP, -40 to 85 degC, Tray",STM-LQFP48_L
+Xtal1,1,Crystal,"NDK, NX3215SA"
